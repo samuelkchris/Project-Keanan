@@ -40,4 +40,4 @@ To install and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/keanan.git
+   git clone https://github.com/samuelkchris/keanan.git
