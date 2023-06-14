@@ -41,3 +41,39 @@ To install and run the project locally, follow these steps:
 1. Clone the repository:
    ```shell
    git clone https://github.com/samuelkchris/keanan.git
+
+## Usage
+Once the web application is running, you can use it to analyze text, images, and speech. Here's how:
+
+Input Text: Enter the text you want to analyze in the provided input box.
+
+Upload Image: If you want to analyze an image, click on the "Upload Image" button and select an image file from your device.
+
+Record Speech: To analyze speech, click on the "Record Speech" button and start speaking. Click the button again to stop recording.
+
+Click the "Analyze" button to initiate the analysis process.
+
+View Analysis Results: The results of the analysis will be displayed on the web application interface, providing insights and information based on the input provided.
+
+## Contributing
+Contributions to the Keanan project are welcome. If you want to contribute, please follow these steps:
+
+Fork the repository.
+
+Create a new branch for your feature or bug fix.
+
+Make the necessary changes and commit them.
+
+Push your changes to your fork.
+
+Submit a pull request, explaining the changes you made and their significance.
+
+## Related Projects
+Hugging Face Transformers: The Keanan project utilizes models from the Hugging Face Transformers library for natural language processing tasks.
+Licensing
+The Keanan project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Screenshots
+Keanan Screenshot
+
+Screenshot of the Keanan web application showing the input and analysis results.
